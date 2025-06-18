@@ -1,5 +1,5 @@
 package com.montecarlo.model;
-
+//test
 public interface Shape {
     /**
      * Проверяет, принадлежит ли данная точка фигуре.
